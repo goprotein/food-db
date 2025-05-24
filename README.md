@@ -1,6 +1,6 @@
-## Licença  
-Este arquivo de dados nutricionais e política de privacidade está licenciado sob a [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
-- ✅ Pode compartilhar e adaptar, desde que:  
-  - **Atribua o crédito** ao projeto original.  
-  - **Não use para fins comerciais**.  
-  - **Compartilhe derivados sob mesma licença**.
+## Licence  
+This nutrition facts file and privacy policy is licensed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
+- ✅ You can share and adapt, as long as:  
+  - **Give credit** to the original project.  
+  - **Do not use for commercial purposes**.  
+  - **Share derivatives under the same license**.
