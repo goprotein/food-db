@@ -1,0 +1,29 @@
+Privacy Policy - GoProtein
+
+Last updated: May, 2025  
+
+This Privacy Policy describes how “GoProtein” (“we”, “us”, or “our”) collects, uses, and shares information in connection with our mobile application (“App”).  
+
+1. Information We Collect  
+• **Profile data**: name, weight, height, body measurements.  
+• **Usage data**: daily logs, goals, and custom foods stored locally.  
+• **No personal identifiers** (email, phone, location) are collected.  
+
+2. How We Use Your Information  
+We use the data stored locally on your device to:  
+• Track daily nutrition and exercise progress.  
+• Personalize goal suggestions and motivational messages.  
+
+3. Data Storage  
+All information is stored locally on your device using AsyncStorage. We do not transmit or share your data with third parties.  
+
+4. Third-Party Services  
+Our App uses data from the USDA FoodData Central API for nutritional information. We do not share any personal data with the USDA.  
+
+5. No Medical Advice  
+This App is not a substitute for professional medical or nutritional advice. Always consult a qualified healthcare provider before making changes.  
+
+6. Changes to This Policy  
+We may update this Policy from time to time. The “Last updated” date at the top will change.  
+
+If you have questions, please contact us at supportgoprotein@gmail.com or arq.felipehf@gmail.com.
