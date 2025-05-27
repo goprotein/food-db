@@ -160,7 +160,6 @@
 		"conversion": "1  = 244.0 g",
 		"protein": "0.6"
 	},
-	"Apricots, Canned": null,
 	"Apricots, Dehydrated": {
 		"calories": "1339.0",
 		"carbs": "82.9",
@@ -441,7 +440,6 @@
 		"conversion": "1 portion= 200g",
 		"protein": "4.8"
 	},
-	"Beans, Kidney, Cooked": null,
 	"Beans, Mung, Canned": {
 		"calories": "48.0",
 		"carbs": "2.1",
@@ -4264,7 +4262,6 @@
 		"conversion": "1  = 5.9 g",
 		"protein": "0.3"
 	},
-	"Lemon Juice": null,
 	"Lemon Peel, Raw": {
 		"calories": "197.0",
 		"carbs": "16.0",
@@ -4286,7 +4283,6 @@
 		"conversion": "1 cup = 180 g",
 		"protein": "8.8"
 	},
-	"Lentils, Cooked": null,
 	"Lettuce, Iceberg, Raw": {
 		"calories": "0.0",
 		"carbs": "3.4",
@@ -5099,7 +5095,6 @@
 		"conversion": "1  = 0 g",
 		"protein": "2.4"
 	},
-	"Mushrooms, Shiitake": null,
 	"Mushrooms, Shiitake, Cooked": {
 		"calories": "234.0",
 		"carbs": "14.4",
@@ -5408,7 +5403,6 @@
 		"conversion": "1  = 0 g",
 		"protein": "0.7"
 	},
-	"Orange Juice": null,
 	"Orange Juice, Canned": {
 		"calories": "196.0",
 		"carbs": "11.0",
@@ -5626,7 +5620,6 @@
 		"conversion": "1  = 248.0 g",
 		"protein": "0.6"
 	},
-	"Peaches, Canned": null,
 	"Peaches, Frozen, Sliced, Sweetened": {
 		"calories": "393.0",
 		"carbs": "24.0",
